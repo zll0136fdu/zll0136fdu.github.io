@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Leilei Zhang initials</title>
+  <desc id="desc">A simple initials mark for Leilei Zhang.</desc>
+  <rect width="128" height="128" rx="18" fill="#8b1e2d"/>
+  <path d="M28 27h14v63h34v12H28V27Z" fill="#fff"/>
+  <path d="M63 27h44v10L78 90h31v12H61V92l29-53H63V27Z" fill="#f4d8dc"/>
+</svg>
